@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageApp.DataLibrary", "StorageApp.DataLibrary\StorageApp.DataLibrary.csproj", "{2DEC7B0B-C08B-4A06-A36B-719ADE5AEA6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageApp.ConsoleApp", "StorageApp.ConsoleApp\StorageApp.ConsoleApp.csproj", "{333977BF-B307-4E56-8EAE-419DE9CCAAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DEC7B0B-C08B-4A06-A36B-719ADE5AEA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEC7B0B-C08B-4A06-A36B-719ADE5AEA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEC7B0B-C08B-4A06-A36B-719ADE5AEA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEC7B0B-C08B-4A06-A36B-719ADE5AEA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333977BF-B307-4E56-8EAE-419DE9CCAAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333977BF-B307-4E56-8EAE-419DE9CCAAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333977BF-B307-4E56-8EAE-419DE9CCAAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333977BF-B307-4E56-8EAE-419DE9CCAAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B745F194-CC43-4B81-937E-AC82ABC8BFFE}
+	EndGlobalSection
+EndGlobal
